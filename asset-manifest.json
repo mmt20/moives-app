@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/moives-app/static/css/main.403e7aac.css",
+    "main.js": "/moives-app/static/js/main.391749eb.js",
+    "static/media/logo.png": "/moives-app/static/media/logo.77efe7f1fa1f17b01237.png",
+    "index.html": "/moives-app/index.html",
+    "main.403e7aac.css.map": "/moives-app/static/css/main.403e7aac.css.map",
+    "main.391749eb.js.map": "/moives-app/static/js/main.391749eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.403e7aac.css",
+    "static/js/main.391749eb.js"
+  ]
+}
